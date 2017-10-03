@@ -18,7 +18,7 @@ present_difference = 0
 males = 0
 females = 0
 
-# While the absolute difference difference wasn't surpass and there are still people in the queue
+# While the absolute difference wasn't surpass and there are still people in the queue
 while absolute_difference >= present_difference and len(people_queue) >= 1:
 
     # First person in the queue
